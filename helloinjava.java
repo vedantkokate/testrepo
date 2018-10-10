@@ -10,4 +10,8 @@ System.out.println("Helo World");
 //heyo
 //=======
 //classes? why?
+//<<<<<<< patch-5
+//last
+//=======
+//>>>>>>> master
 //>>>>>>> master
