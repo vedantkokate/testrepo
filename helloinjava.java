@@ -2,6 +2,7 @@ public class trying
 {
 public static void main()
 {
+  //prasuk sucks
 System.out.println("Helo World");
 }
 }
