@@ -6,7 +6,7 @@ public static void main()
 System.out.println("Helo World");
 //<<<<<<< patch-1
 System.out.println("trying something");  
-//=======
+//=======dhoooooooom
 //<<<<<<< patch-2
   for(int =0;i<10;i++)
    System.out.println(i); 
