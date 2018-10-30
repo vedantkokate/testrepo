@@ -3,6 +3,7 @@ public class trying
 public static void main()
 {
 System.out.println("Helo World");
+System.out.println("trying something");  
 }
 }
 //i don't get this
