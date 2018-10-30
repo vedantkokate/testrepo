@@ -3,6 +3,7 @@ public class trying
 public static void main()
 {
 System.out.println("Helo World");
+  //teach me spmething basic
 }
 }
 //i don't get this
